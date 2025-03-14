@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sooraj T T</h1>
-<h3 align="center">Software developer/Mobile App developer/ML Engineer</h3>
+<h3 align="center">Data Analyst/ML Engineer</h3>
 <img align="right" alt="coding" height="300" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zencrey&label=Profile%20views&color=0e75b6&style=flat" alt="zencrey" /> </p>
